@@ -1,5 +1,5 @@
 _repo: The-Book-Review-Digest-Volume-II-1906-Annual-Cumulation-Volume-II-Book-Reviews-Of-1906-In-One__59837
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Wilson, Justina Leavitt
@@ -13,6 +13,9 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '4506'
     url: http://www.gutenberg.org/2009/agents/4506
+covers:
+- cover_type: archival
+  image_path: 59837-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59837#The-Book-Review-Digest-Volume-II-1906-Annual-Cumulation-Volume-II-Book-Reviews-Of-1906-In-One_
 gutenberg_issued: '2019-06-30'
 gutenberg_type: Text
 identifiers:
